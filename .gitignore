@@ -9,6 +9,9 @@ mcp-config.json
 方案文档.md
 快速上手.md
 
+# 项目本地数据（记忆 / 会话记录），不入库
+.workbuddy/
+
 # 本地扫描产物
 report*.txt
 report*.json
